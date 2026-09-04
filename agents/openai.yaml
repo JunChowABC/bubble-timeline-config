@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bubble Timeline 配置"
+  short_description: "配置并审计 Bubble 剧情 Timeline、Spine 动作、分段时间与 Director 绑定"
+  default_prompt: "Use $bubble-timeline-config to turn my Bubble剧情演出需求 into a reviewable Timeline配置方案 and validate its bindings."
+
